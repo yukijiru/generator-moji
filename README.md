@@ -1,4 +1,4 @@
-# generator-moji [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-moji [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] 
 > Generates &#39;Moji&#39; a dev environment using webpack, react(babel es2015), and sass
 
 ## Installation
