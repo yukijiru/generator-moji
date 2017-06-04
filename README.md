@@ -26,4 +26,3 @@ yo moji
 ## License
 
 ISC © [Rabbid-Bandit](http://codecodedur.com)
-[coveralls-url]: https://coveralls.io/r/stewartsarah1990@gmail.com/generator-moji
